@@ -1,5 +1,5 @@
 ## Clima
-It is a simple weathor app that uses JSON with basic functionalities.
+It is a simple weathor app that uses JSON with basic functionalities. It as varies with ligh and dark theme set on your device and tells you your current location as wel as location you search with city name.
 
 ## Motivation
 It is a personal project developed by me in Xcode using Swift5. It is basically developed for learning new skill in Xcode by having a overview on the language and implementing the experience.
