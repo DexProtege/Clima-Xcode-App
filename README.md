@@ -16,8 +16,5 @@ It is a personal project developed by me in Xcode using Swift5. It is basically 
 <p><img src="screenshots/1.png" width="350" > &emsp;&emsp;
 <img src="screenshots/2.png" width="350" ></p>
 
-## Contribute
-I'm welcome to any ideas to contribute.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
